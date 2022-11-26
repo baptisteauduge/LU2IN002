@@ -1,7 +1,8 @@
+/**
+ * @author Baptiste Audugé, (Groupe Double Majeur Mathématiques et Informatique)
+ */
 package ex53.tests;
-
 import ex53.*;
-
 public class TestTrousse {
 
   public static void main(String[] args) {

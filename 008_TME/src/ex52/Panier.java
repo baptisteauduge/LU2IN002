@@ -1,7 +1,8 @@
+/**
+ * @author Baptiste Audugé, (Groupe Double Majeur Mathématiques et Informatique)
+ */
 package ex52;
-
 import java.util.ArrayList;
-
 public class Panier extends ArrayList<Ramassable> {
 
   private int poidsMax;

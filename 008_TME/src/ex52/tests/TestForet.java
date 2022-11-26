@@ -1,5 +1,7 @@
+/**
+ * @author Baptiste Audugé, (Groupe Double Majeur Mathématiques et Informatique)
+ */
 package ex52.tests;
-
 import ex52.*;
 import java.lang.Math;
 import java.util.ArrayList;

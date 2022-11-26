@@ -1,7 +1,8 @@
+/**
+ * @author Baptiste Audugé, (Groupe Double Majeur Mathématiques et Informatique)
+ */
 package ex53;
-
 import java.util.ArrayList;
-
 public class Trousse {
 
   private ArrayList<Stylo> stylos;

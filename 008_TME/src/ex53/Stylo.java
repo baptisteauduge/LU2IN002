@@ -1,5 +1,7 @@
+/**
+ * @author Baptiste Audugé, (Groupe Double Majeur Mathématiques et Informatique)
+ */
 package ex53;
-
 public class Stylo {
 
   private String couleur;
