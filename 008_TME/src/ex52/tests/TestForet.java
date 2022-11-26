@@ -1,14 +1,8 @@
 package ex52.tests;
 
-import ex52.Arbre;
-import ex52.Champignon;
-import ex52.ChampignonToxique;
-import ex52.Foret;
-import ex52.Ramassable;
-import ex52.Panier;
-
+import ex52.*;
 import java.lang.Math;
-import java.util.ArrayList;;
+import java.util.ArrayList;
 
 public class TestForet {
 
